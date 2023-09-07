@@ -1,8 +1,8 @@
-# My-Protfolio
+# My-Portfolio
 
-Website Link :- <a href="https://muke0131.github.io/My-Protfolio/">Click Here</a>
+Website Link :- <a href="https://muke0131.github.io/My-Portfolio/">Click Here</a>
 
-This is My Protfolio website. <br>
-It is build from scratch using HTML CSS and JS.
+This is My portfolio website. <br>
+It is built from scratch using HTML CSS and JS.
 
 
